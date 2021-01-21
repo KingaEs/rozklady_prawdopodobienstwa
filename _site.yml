@@ -3,12 +3,10 @@ output_dir: "docs"
 navbar:
   title: "Cars"
   left:
-  - text: "Speed and Distance"
-   href: rozklad_ciagly.html
-  - text: "Home"
-   href: index.html
-  - text: "Speed and Distance"
-   href: rozklad_ciagly.html
+    - text: "Home"
+      href: index.html
+    - text: "Speed and Distance"
+      href: rozklad_ciagly.html
 output:
   html_document:
- theme: cosmo
+  theme: cosmo
